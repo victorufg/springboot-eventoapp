@@ -6,7 +6,6 @@ import javax.persistence.ManyToOne;
 
 import org.hibernate.validator.constraints.NotEmpty;
 
-@SuppressWarnings("deprecation")
 @Entity
 public class Convidado {
 	

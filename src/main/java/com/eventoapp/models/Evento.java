@@ -14,7 +14,6 @@ import org.hibernate.validator.constraints.NotEmpty;
 
 import java.util.List;
 
-@SuppressWarnings("deprecation")
 @Entity
 public class Evento implements Serializable{
 	
